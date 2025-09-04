@@ -1,6 +1,4 @@
 # AI-Product-Review-Sentiment-Analyzer
-# 📊 AI Product Review Sentiment Analyzer
-
 An AI-powered web app that analyzes Amazon/Flipkart product reviews and classifies them as Positive, Negative, or Neutral.  
 Built with **Streamlit + Hugging Face Transformers**.
 
